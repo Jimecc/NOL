@@ -1,0 +1,7 @@
+server:
+  port: 19901
+
+sys:
+  # ???????
+  code: xxxx
+  pwd: xxxxx
